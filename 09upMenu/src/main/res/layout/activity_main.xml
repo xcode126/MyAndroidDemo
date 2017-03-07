@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.xcode126.upmenu.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="主视图"
+        android:textColor="@color/colorAccent"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:onClick="Btn1Click"
+        android:text="横向分享菜单"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:onClick="Btn2Click"
+        android:text="图片、拍照上弹菜单"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp" />
+</LinearLayout>

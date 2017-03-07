@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01uploadImage" />
+            <option value="$PROJECT_DIR$/02ProjectFrame" />
+            <option value="$PROJECT_DIR$/03okhttp" />
+            <option value="$PROJECT_DIR$/04EventBus" />
+            <option value="$PROJECT_DIR$/05xutils" />
+            <option value="$PROJECT_DIR$/06Afinal" />
+            <option value="$PROJECT_DIR$/07Volley" />
+            <option value="$PROJECT_DIR$/08Glide" />
+            <option value="$PROJECT_DIR$/09upMenu" />
+            <option value="$PROJECT_DIR$/10WebViewAndH5" />
+            <option value="$PROJECT_DIR$/11pickview" />
+            <option value="$PROJECT_DIR$/12binnerview" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01uploadImage/01uploadImage.iml" filepath="$PROJECT_DIR$/01uploadImage/01uploadImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02ProjectFrame/02ProjectFrame.iml" filepath="$PROJECT_DIR$/02ProjectFrame/02ProjectFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03okhttp/03okhttp.iml" filepath="$PROJECT_DIR$/03okhttp/03okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04EventBus/04EventBus.iml" filepath="$PROJECT_DIR$/04EventBus/04EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05xutils/05xutils.iml" filepath="$PROJECT_DIR$/05xutils/05xutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Afinal/06Afinal.iml" filepath="$PROJECT_DIR$/06Afinal/06Afinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Volley/07Volley.iml" filepath="$PROJECT_DIR$/07Volley/07Volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Glide/08Glide.iml" filepath="$PROJECT_DIR$/08Glide/08Glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09upMenu/09upMenu.iml" filepath="$PROJECT_DIR$/09upMenu/09upMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10WebViewAndH5/10WebViewAndH5.iml" filepath="$PROJECT_DIR$/10WebViewAndH5/10WebViewAndH5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11pickview/11pickview.iml" filepath="$PROJECT_DIR$/11pickview/11pickview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12binnerview/12binnerview.iml" filepath="$PROJECT_DIR$/12binnerview/12binnerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+include ':app', ':01uploadImage', ':02ProjectFrame', ':03okhttp', ':04EventBus', ':05xutils', ':06Afinal', ':07Volley', ':08Glide', ':09upMenu', ':10WebViewAndH5', ':11pickview', ':12binnerview'

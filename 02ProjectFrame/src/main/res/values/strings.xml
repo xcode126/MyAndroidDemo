@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">02项目框架</string>
+    <string name="main_bottom_tab01_string">第一個Tab</string>
+    <string name="main_bottom_tab02_string">第二個Tab</string>
+    <string name="main_bottom_tab03_string">第三個Tab</string>
+    <string name="main_bottom_tab04_string">第四個Tab</string>
+</resources>

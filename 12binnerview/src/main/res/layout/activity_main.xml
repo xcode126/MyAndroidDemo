@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context="com.xcode126.binnerview.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorPrimary"
+        android:gravity="center"
+        android:text="滚动广告视图"
+        android:textColor="@color/colorAccent"
+        android:textSize="22sp" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:onClick="rollPagerClick"
+        android:text="使用RollViewPager" />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/colorAccent"
+        android:onClick="ViewPagerClick"
+        android:text="使用ViewPager" />
+
+</LinearLayout>
