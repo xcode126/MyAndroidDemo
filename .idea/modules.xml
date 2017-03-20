@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/12binnerview/12binnerview.iml" filepath="$PROJECT_DIR$/12binnerview/12binnerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myanimation/myanimation.iml" filepath="$PROJECT_DIR$/myanimation/myanimation.iml" />
     </modules>
   </component>
 </project>

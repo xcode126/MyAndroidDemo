@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAnimation</string>
+    <string name="main_input_name_string">请输入名字</string>
+</resources>
