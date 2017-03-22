@@ -14,9 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/10WebViewAndH5/10WebViewAndH5.iml" filepath="$PROJECT_DIR$/10WebViewAndH5/10WebViewAndH5.iml" />
       <module fileurl="file://$PROJECT_DIR$/11pickview/11pickview.iml" filepath="$PROJECT_DIR$/11pickview/11pickview.iml" />
       <module fileurl="file://$PROJECT_DIR$/12binnerview/12binnerview.iml" filepath="$PROJECT_DIR$/12binnerview/12binnerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13animationdemo/13animationdemo.iml" filepath="$PROJECT_DIR$/13animationdemo/13animationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14badgernumber/14badgernumber.iml" filepath="$PROJECT_DIR$/14badgernumber/14badgernumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myanimation/myanimation.iml" filepath="$PROJECT_DIR$/myanimation/myanimation.iml" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/widght_title_top" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="?android:attr/colorMultiSelectHighlight"
+        android:onClick="ObjectAnimatorClick"
+        android:text="1.ObjectAnimator"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="?android:attr/colorFocusedHighlight"
+        android:onClick="ValueAnimatorClick"
+        android:text="2.ValueAnimator"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@android:color/holo_red_light"
+        android:onClick="AnimatorSetClick"
+        android:text="3.AnimatorSet"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+</LinearLayout>

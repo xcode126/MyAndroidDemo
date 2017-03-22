@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <!-- true代表播放一次，false代表循环播放-->
+    <item
+        android:drawable="@mipmap/gif_meizhi_0"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_1"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_2"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_3"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_4"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_5"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_6"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_7"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_8"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_9"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_10"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_11"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_12"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_13"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_14"
+        android:duration="200" />
+    <item
+        android:drawable="@mipmap/gif_meizhi_15"
+        android:duration="200" />
+
+</animation-list>

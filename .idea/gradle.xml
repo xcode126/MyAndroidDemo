@@ -20,8 +20,9 @@
             <option value="$PROJECT_DIR$/10WebViewAndH5" />
             <option value="$PROJECT_DIR$/11pickview" />
             <option value="$PROJECT_DIR$/12binnerview" />
+            <option value="$PROJECT_DIR$/13animationdemo" />
+            <option value="$PROJECT_DIR$/14badgernumber" />
             <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/myanimation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

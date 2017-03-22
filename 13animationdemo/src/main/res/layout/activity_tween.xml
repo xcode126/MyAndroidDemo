@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/widght_title_top"
+        android:layout_width="match_parent"
+        android:layout_height="40dp" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@android:color/holo_green_dark"
+        android:onClick="singleCodeClick"
+        android:text="1.单一动画（代码实现）"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@android:color/holo_blue_dark"
+        android:onClick="singleXmlClick"
+        android:text="2.单一动画（xml实现）"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@android:color/holo_purple"
+        android:onClick="complexCodeClick"
+        android:text="3.复合动画（代码实现）"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="?android:attr/colorMultiSelectHighlight"
+        android:onClick="complexXmlClick"
+        android:text="4.复合动画（xml实现）"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="?android:attr/colorFocusedHighlight"
+        android:onClick="AnimationListenerClick"
+        android:text="5.动画监听（AnimationListener）"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@android:color/holo_red_light"
+        android:onClick="LayoutAnimationsControllerClick"
+        android:text="6.LayoutAnimationsController"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
+</LinearLayout>
