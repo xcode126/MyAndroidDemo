@@ -6,7 +6,8 @@ import android.view.View;
 import android.view.Window;
 import android.widget.TextView;
 
-import com.xcode126.animationdemo.other.ViewAnimatorActivity;
+import com.xcode126.animationdemo.other.WelomeActivity;
+import com.xcode126.animationdemo.viewanimator.ViewAnimatorActivity;
 
 /**
  * 作者：sky
@@ -74,5 +75,14 @@ public class MainActivity extends CommonSuperActivity {
      */
     public void btn5Click(View view) {
         startActivity(new Intent(MainActivity.this, ScanActivity.class));
+    }
+
+    /**
+     * 欢迎动画
+     *
+     * @param view
+     */
+    public void btn6Click(View view) {
+        startActivity(new Intent(MainActivity.this, WelomeActivity.class));
     }
 }

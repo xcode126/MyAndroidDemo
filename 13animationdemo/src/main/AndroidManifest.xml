@@ -21,7 +21,7 @@
         <activity android:name=".FrameActivity" />
         <activity android:name=".tween.SingleCodeActivity" />
         <activity android:name=".tween.ComplexCodeActivity" />
-        <activity android:name=".other.ViewAnimatorActivity" />
+        <activity android:name=".viewanimator.ViewAnimatorActivity" />
         <activity android:name=".tween.SingleXmlActivity" />
         <activity android:name=".tween.ComplexXmlActivity" />
         <activity android:name=".tween.AnimationListenerActivity" />
@@ -30,7 +30,14 @@
         <activity android:name=".property.ObjectAnimatorActivity" />
         <activity android:name=".property.ValueAnimatorActivity" />
         <activity android:name=".property.AnimatorSetActivity" />
-        <activity android:name=".ScanActivity"></activity>
+        <activity android:name=".ScanActivity" />
+        <activity
+            android:name=".other.WelomeActivity"
+            android:theme="@android:style/Theme.Light.NoTitleBar.Fullscreen" />
+        <activity android:name=".other.SetupGuide1Activity" />
+        <activity android:name=".other.SetupGuide2Activity" />
+        <activity android:name=".other.SetupGuide3Activity" />
+        <activity android:name=".other.SplashActivity"></activity>
     </application>
 
 </manifest>

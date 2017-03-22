@@ -1,4 +1,4 @@
-package com.xcode126.animationdemo.other;
+package com.xcode126.animationdemo.viewanimator;
 
 import android.app.Activity;
 import android.os.Bundle;
