@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.widget.TextView;
+
 import com.xcode126.animationdemo.other.ViewAnimatorActivity;
 
 /**
@@ -64,5 +65,14 @@ public class MainActivity extends CommonSuperActivity {
      */
     public void btn4Click(View view) {
         startActivity(new Intent(MainActivity.this, ViewAnimatorActivity.class));
+    }
+
+    /**
+     * 杀毒扫描效果
+     *
+     * @param view
+     */
+    public void btn5Click(View view) {
+        startActivity(new Intent(MainActivity.this, ScanActivity.class));
     }
 }

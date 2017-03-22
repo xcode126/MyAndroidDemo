@@ -29,7 +29,8 @@
         <activity android:name=".frame.ChangePostionFrameActivity" />
         <activity android:name=".property.ObjectAnimatorActivity" />
         <activity android:name=".property.ValueAnimatorActivity" />
-        <activity android:name=".property.AnimatorSetActivity"></activity>
+        <activity android:name=".property.AnimatorSetActivity" />
+        <activity android:name=".ScanActivity"></activity>
     </application>
 
 </manifest>

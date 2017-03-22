@@ -60,4 +60,16 @@
         android:textSize="18sp"
         android:visibility="visible" />
 
+    <Button
+        style="@android:style/Widget.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@android:color/holo_red_light"
+        android:onClick="btn5Click"
+        android:text="5.杀毒扫描效果"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        android:visibility="visible" />
+
 </LinearLayout>
