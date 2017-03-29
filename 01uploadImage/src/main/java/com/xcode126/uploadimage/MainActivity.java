@@ -21,6 +21,13 @@ import com.liql.photograph.utils.ImageDispose;
 
 import java.io.File;
 
+/**
+ * 作者：sky
+ * 邮箱：xcode126@126.com
+ * QQ号：1397028339
+ * 公众号：走近程序员
+ * 作用：调用相册和拍照效果，支持7.0
+ */
 public class MainActivity extends Activity implements OnPhotographGetDataListener<File> {
     private int mTag = -1;
     private final long IMAGESIZE = 1024 * 1024;
