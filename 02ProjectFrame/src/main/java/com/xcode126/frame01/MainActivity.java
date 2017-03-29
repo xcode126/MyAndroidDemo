@@ -5,9 +5,17 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentTransaction;
 import android.widget.RadioGroup;
+
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * 作者：sky
+ * 邮箱：xcode126@126.com
+ * QQ号：1397028339
+ * 公众号：走近程序员
+ * 作用：搭建框架效果
+ */
 public class MainActivity extends ComSuperActivity {
     private RadioGroup main_rg;
     private List<BaseFragment> mBaseFragment;
