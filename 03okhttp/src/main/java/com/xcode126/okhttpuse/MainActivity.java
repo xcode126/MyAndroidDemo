@@ -23,7 +23,8 @@ import okhttp3.Response;
  * 作者：sky
  * 邮箱：xcode126@126.com
  * QQ号：1397028339
- * 作用：okhttp
+ * 公众号：走近程序员
+ * 作用：okhttp的使用
  */
 public class MainActivity extends Activity implements View.OnClickListener {
     public static final MediaType JSON
