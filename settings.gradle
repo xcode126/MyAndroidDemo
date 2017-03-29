@@ -1,1 +1,1 @@
-include ':app', ':01uploadImage', ':02ProjectFrame', ':03okhttp', ':04EventBus', ':05xutils', ':06Afinal', ':07Volley', ':08Glide', ':09upMenu', ':10WebViewAndH5', ':11pickview', ':12binnerview', ':14badgernumber', ':13animationdemo', ':15baidumapdemo'
+include ':app', ':01uploadImage', ':02ProjectFrame', ':03okhttp', ':04EventBus', ':05xutils', ':06Afinal', ':07Volley', ':08Glide', ':09upMenu', ':10WebViewAndH5', ':11pickview', ':12binnerview', ':14badgernumber', ':13animationdemo', ':15baidumapdemo', ':16imageproces'
