@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/15baidumapdemo" />
             <option value="$PROJECT_DIR$/16imageproces" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/pickerview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

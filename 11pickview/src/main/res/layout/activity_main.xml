@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
     tools:context="com.xcode126.pickview.MainActivity">
 
     <TextView
@@ -17,15 +19,27 @@
         android:textSize="22sp" />
 
     <Button
-        android:layout_width="200dp"
+        android:layout_width="300dp"
         android:layout_height="50dp"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="100dp"
         android:background="@color/colorPrimaryDark"
         android:gravity="center"
-        android:onClick="btnClick"
-        android:text="点击"
+        android:onClick="btn1Click"
+        android:text="自己实现三级联动"
         android:textColor="@color/colorAccent"
         android:textSize="20sp" />
 
-</RelativeLayout>
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:background="@color/colorPrimaryDark"
+        android:gravity="center"
+        android:onClick="btn2Click"
+        android:text="使用第三方依赖实现"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp" />
+
+</LinearLayout>

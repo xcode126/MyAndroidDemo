@@ -10,10 +10,10 @@ import android.widget.RelativeLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.xcode126.pickview.adapter.ArrayWheelAdapter;
 import com.xcode126.pickview.model.AreaModel;
 import com.xcode126.pickview.model.CityModel;
 import com.xcode126.pickview.model.ProvinceModel;
-import com.xcode126.pickview.adapter.ArrayWheelAdapter;
 import com.xcode126.pickview.widght.OnWheelChangedListener;
 import com.xcode126.pickview.widght.WheelView;
 
@@ -83,6 +83,17 @@ public class CitySelectPopupWindow extends PopupWindow implements View.OnClickLi
     public CitySelectPopupWindow(Context context) {
         super(context);
         this.context = context;
+        initView();
+        setView();
+        //获取本地城市数据
+        getCityData();
+        initEvent();
+    }
+
+    /**
+     * init view
+     */
+    private void initView() {
         LayoutInflater inflater = (LayoutInflater) context
                 .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
         conentView = inflater.inflate(R.layout.pop_window_city_select, null);
@@ -96,7 +107,12 @@ public class CitySelectPopupWindow extends PopupWindow implements View.OnClickLi
         mViewArea.addChangingListener(this);
         tv_cancel.setOnClickListener(this);
         tv_finish.setOnClickListener(this);
+    }
 
+    /**
+     * set view
+     */
+    private void setView() {
         //设置SharePopupWindow的View
         this.setContentView(conentView);
         //设置SelectPicPopupWindow弹出窗体的宽
@@ -112,32 +128,26 @@ public class CitySelectPopupWindow extends PopupWindow implements View.OnClickLi
         //设置SelectPicPopupWindow弹出窗体的背景
         this.setBackgroundDrawable(dw);
         //mMenuView添加OnTouchListener监听判断获取触屏位置如果在选择框外面则销毁弹出框
-        conentView.setOnTouchListener(new View.OnTouchListener() {
+        conentView.setOnTouchListener(new MyTouchListener());
+    }
 
-            @Override
-            public boolean onTouch(View view, MotionEvent motionEvent) {
+    /**
+     * set touch limit
+     */
+    private class MyTouchListener implements View.OnTouchListener {
 
-                int height = conentView.findViewById(R.id.ll_popu_city).getTop();
-                int y = (int) motionEvent.getY();
-                if (motionEvent.getAction() == MotionEvent.ACTION_UP) {
-                    if (y < height) {
-                        dismiss();
-                    }
+        @Override
+        public boolean onTouch(View view, MotionEvent motionEvent) {
+
+            int height = conentView.findViewById(R.id.ll_popu_city).getTop();
+            int y = (int) motionEvent.getY();
+            if (motionEvent.getAction() == MotionEvent.ACTION_UP) {
+                if (y < height) {
+                    dismiss();
                 }
-                return true;
             }
-
-        });
-        //获取本地城市数据
-        getCityData();
-
-        mViewProvince.setViewAdapter(new ArrayWheelAdapter<String>(context, mProvinceDatas));
-        // 设置可见条目数量
-        mViewProvince.setVisibleItems(7);
-        mViewCity.setVisibleItems(7);
-        mViewArea.setVisibleItems(7);
-        updateCities();
-        updateAreas();
+            return true;
+        }
     }
 
     /**
@@ -253,6 +263,18 @@ public class CitySelectPopupWindow extends PopupWindow implements View.OnClickLi
         }
     }
 
+    /**
+     * init evetn
+     */
+    private void initEvent() {
+        mViewProvince.setViewAdapter(new ArrayWheelAdapter<String>(context, mProvinceDatas));
+        // 设置可见条目数量
+        mViewProvince.setVisibleItems(7);
+        mViewCity.setVisibleItems(7);
+        mViewArea.setVisibleItems(7);
+        updateCities();
+        updateAreas();
+    }
 
     /**
      * 根据当前的省，更新市WheelView的信息

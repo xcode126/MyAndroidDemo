@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
 
-    <com.baidu.mapapi.map.MapView
-        android:id="@+id/bmapView"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_margin="5dp"
+        android:background="@color/colorPrimary"
+        android:onClick="firstOnclick"
+        android:text="跳转第一个界面" />
 
     <Button
-        android:layout_width="100dp"
+        android:layout_width="match_parent"
         android:layout_height="50dp"
-        android:layout_gravity="top|right"
+        android:layout_margin="5dp"
         android:background="@color/colorPrimary"
-        android:onClick="btnClick"
-        android:text="添加标注" />
-</FrameLayout>
+        android:onClick="secondOnclick"
+        android:text="跳转第二个界面" />
+
+</LinearLayout>
