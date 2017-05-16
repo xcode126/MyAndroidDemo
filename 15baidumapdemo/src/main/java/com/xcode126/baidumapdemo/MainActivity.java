@@ -8,7 +8,7 @@ import android.view.View;
 /**
  * 作者：sky
  * 邮箱：xcode126@126.com
- * 公众号：走近程序员
+ * 公众号：程序教科书
  * 作用：百度地图添加指定位置标注
  */
 public class MainActivity extends Activity {

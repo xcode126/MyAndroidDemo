@@ -18,6 +18,7 @@ import me.leolin.shortcutbadger.ShortcutBadger;
  * 作者：sky
  * 邮箱：xcode126@126.com
  * Q Q：1397028339
+ * 公众号：程序教科书
  * 作用：桌面角标（消息未读数量）
  * 第三方：
  * 1.https://github.com/leolin310148/ShortcutBadger

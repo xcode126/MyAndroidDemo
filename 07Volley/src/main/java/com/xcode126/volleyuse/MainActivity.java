@@ -29,6 +29,7 @@ import java.util.Map;
  * 作者：sky
  * 邮箱：xcode126@126.com
  * QQ号：1397028339
+ * 公众号：程序教科书
  * 作用：VVolley 框架被设计为适用于网络请求非常频繁但是数据量并不是特别大的情景
  */
 public class MainActivity extends Activity {

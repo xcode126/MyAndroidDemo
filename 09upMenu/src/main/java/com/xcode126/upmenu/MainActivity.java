@@ -10,7 +10,7 @@ import android.view.Window;
  * 作者：sky
  * 邮箱：xcode126@126.com
  * QQ号：1397028339
- * 公众号：走近程序员
+ * 公众号：程序教科书
  * 作用：上弹视图风格介绍
  */
 public class MainActivity extends Activity {

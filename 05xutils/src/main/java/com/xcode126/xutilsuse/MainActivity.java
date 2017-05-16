@@ -13,6 +13,7 @@ import org.xutils.x;
  * 作者：sky
  * 邮箱：xcode126@126.com
  * QQ号：1397028339
+ * 公众号：程序教科书
  * 作用：xutils3的使用
  */
 @ContentView(R.layout.activity_main)

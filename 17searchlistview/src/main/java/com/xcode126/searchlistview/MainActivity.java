@@ -32,7 +32,11 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * 主界面
+ * 作者：sky
+ * 邮箱：xcode126@126.com
+ * QQ:1397028339
+ * 公众号：程序教科书
+ * 作用：侧边listview和searchView的实现
  */
 public class MainActivity extends Activity {
     private EditText searchEt;

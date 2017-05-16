@@ -13,7 +13,7 @@ import com.xcode126.animationdemo.viewanimator.ViewAnimatorActivity;
  * 作者：sky
  * 邮箱：xcode126@126.com
  * Q Q：1397028339
- * 公众号：走近程序员
+ * 公众号：程序教科书
  * 作用：Android动画（Animation）
  * 1.补间动画（TweenAnimations）：弥补空间的动画即通过旋转，位移，缩放，透明等效果让视图改变空间位置的变化
  * 2.逐帧动画（FrameAnimations）：在“连续的关键帧”中分解动画动作
