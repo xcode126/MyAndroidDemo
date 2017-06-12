@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:3:5-31
+	android:versionName
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:5:5-30
+		INJECTED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:4:5-28
+		INJECTED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:8:9-35
+application
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:11:5-33:19
+	android:label
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:15:9-40
+activity#com.example.demo.view.MainActivity
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:17:13-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:22:27-74
+activity#com.example.demo.view.ScrollGridActivity
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:25:19-74
+activity#com.example.demo.view.ListListActivity
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:27:19-72
+activity#com.example.demo.view.ExpandableListViewActivity
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:29:9-30:20
+	android:name
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:29:19-82
+activity#com.example.demo.view.ExpandableGridViewActivity
+ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from E:\MyDemo\MyApplication\Fun_ClassifyDemo\AndroidManifest.xml:31:19-82

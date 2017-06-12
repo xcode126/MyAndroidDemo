@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\MyDemo\MyApplication\Fun_ClassifyDemo\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\MyDemo\MyApplication\Fun_ClassifyDemo\build-types\debug\jniLibs"/></dataSet></merger>
