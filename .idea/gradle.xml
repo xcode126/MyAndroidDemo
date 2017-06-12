@@ -26,8 +26,9 @@
             <option value="$PROJECT_DIR$/16imageproces" />
             <option value="$PROJECT_DIR$/17searchlistview" />
             <option value="$PROJECT_DIR$/18RecyclerViewDemo" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/pickerview" />
+            <option value="$PROJECT_DIR$/19wallpapervideo" />
+            <option value="$PROJECT_DIR$/pickerview_library" />
+            <option value="$PROJECT_DIR$/test" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

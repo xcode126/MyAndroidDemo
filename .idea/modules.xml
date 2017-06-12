@@ -20,9 +20,10 @@
       <module fileurl="file://$PROJECT_DIR$/16imageproces/16imageproces.iml" filepath="$PROJECT_DIR$/16imageproces/16imageproces.iml" />
       <module fileurl="file://$PROJECT_DIR$/17searchlistview/17searchlistview.iml" filepath="$PROJECT_DIR$/17searchlistview/17searchlistview.iml" />
       <module fileurl="file://$PROJECT_DIR$/18RecyclerViewDemo/18RecyclerViewDemo.iml" filepath="$PROJECT_DIR$/18RecyclerViewDemo/18RecyclerViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19wallpapervideo/19wallpapervideo.iml" filepath="$PROJECT_DIR$/19wallpapervideo/19wallpapervideo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pickerview/pickerview.iml" filepath="$PROJECT_DIR$/pickerview/pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pickerview_library/pickerview_library.iml" filepath="$PROJECT_DIR$/pickerview_library/pickerview_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>
