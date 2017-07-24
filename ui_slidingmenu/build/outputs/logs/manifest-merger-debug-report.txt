@@ -1,0 +1,51 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:2:1-17:12
+	package
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+application
+ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:5:5-15:19
+	android:label
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:6:9-41
+	android:supportsRtl
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:7:9-35
+	android:roundIcon
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:6:42-87
+	android:allowBackup
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:5:18-44
+	android:icon
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:5:45-79
+	android:theme
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:7:36-67
+activity#com.xcode126.ui_slidingmenu.MainActivity
+ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:8:9-14:20
+	android:name
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:8:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:9:13-13:29
+action#android.intent.action.MAIN
+ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:10:17-69
+	android:name
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\ui_slidingmenu\src\main\AndroidManifest.xml

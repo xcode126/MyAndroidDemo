@@ -1,0 +1,86 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:6:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\bf57e661cf0765f0db32997d3c81edccede556ac\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\Administrator\.android\build-cache\f0e2d2ee779fa85945f86f0fa51c12ad4e40089a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\5164c7be9f401ec4c3a84624783b4bb1407585fb\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\77ec7c021be3fef1d2977ea901ea71035ed30d83\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\731d34d6ad7f834fbef1d0e5513fb7ac0da6107f\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Administrator\.android\build-cache\deddaa690d82fb0e76c2573b7c48249ee33fb4f1\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v13:24.2.1] C:\Users\Administrator\.android\build-cache\03758e14cf848beb77461f3434b794ea09c4ca88\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.android\build-cache\f0e1c73be2e3a6b3c9c8760420367576d188de0c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.android\build-cache\973eb38cb27776056ec0f269e0b55a1958de8fa1\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.android\build-cache\9c8dd82beb27b524a9089e8e1591d7d8f358dcd7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.android\build-cache\3b9b9aca73dfb96b327db77d218e1a6520e9041a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.android\build-cache\478062aaa869c7cd4f6b1d86d0badba337c5334d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.android\build-cache\0e47ede28fccf53365748acc3c6cf18ad6866c7a\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:10:9-35
+	android:allowBackup
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:11:9-40
+activity#com.xcode126.fun2_rxjava.MainActivity
+ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:12:9-20:20
+	android:theme
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:14:13-69
+	android:name
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:13:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\bf57e661cf0765f0db32997d3c81edccede556ac\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\Administrator\.android\build-cache\f0e2d2ee779fa85945f86f0fa51c12ad4e40089a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\5164c7be9f401ec4c3a84624783b4bb1407585fb\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\77ec7c021be3fef1d2977ea901ea71035ed30d83\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\731d34d6ad7f834fbef1d0e5513fb7ac0da6107f\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Administrator\.android\build-cache\abe9b7f95d6f47482d7fe6dfc07ae9f5c0378f6b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\Administrator\.android\build-cache\deddaa690d82fb0e76c2573b7c48249ee33fb4f1\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton.rxbinding:rxbinding:0.4.0] C:\Users\Administrator\.android\build-cache\fdc5c0d504ee86770ac2c99d162c9b0316ab0842\output\AndroidManifest.xml:6:5-44
+MERGED from [io.reactivex:rxandroid:1.1.0] C:\Users\Administrator\.android\build-cache\9f2436e226bc7f02ce99320c53df297005b6f2db\output\AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:support-v13:24.2.1] C:\Users\Administrator\.android\build-cache\03758e14cf848beb77461f3434b794ea09c4ca88\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.android\build-cache\f0e1c73be2e3a6b3c9c8760420367576d188de0c\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.android\build-cache\973eb38cb27776056ec0f269e0b55a1958de8fa1\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.android\build-cache\9c8dd82beb27b524a9089e8e1591d7d8f358dcd7\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.android\build-cache\3b9b9aca73dfb96b327db77d218e1a6520e9041a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.android\build-cache\478062aaa869c7cd4f6b1d86d0badba337c5334d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.android\build-cache\0e47ede28fccf53365748acc3c6cf18ad6866c7a\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\5164c7be9f401ec4c3a84624783b4bb1407585fb\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml
+		INJECTED from E:\MyDemo\MyApplication\fun2_rxjava\src\main\AndroidManifest.xml

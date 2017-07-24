@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyDemo\\MyApplication\\fun2_rxjava\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher_round.png",
+        "source": "E:\\MyDemo\\MyApplication\\fun2_rxjava\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\MyApplication\\fun2_rxjava\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "E:\\MyDemo\\MyApplication\\fun2_rxjava\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]

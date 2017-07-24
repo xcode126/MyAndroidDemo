@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyDemo\\MyApplication\\ui_slidingmenu\\build\\intermediates\\res\\merged\\debug\\layout\\layout_menu.xml",
+        "source": "E:\\MyDemo\\MyApplication\\ui_slidingmenu\\src\\main\\res\\layout\\layout_menu.xml"
+    },
+    {
+        "merged": "E:\\MyDemo\\MyApplication\\ui_slidingmenu\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\MyDemo\\MyApplication\\ui_slidingmenu\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

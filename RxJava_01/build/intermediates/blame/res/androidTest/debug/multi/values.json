@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\MyDemo\\MyApplication\\RxJava_01\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\12530c28eab1f0c5305db8bb257c53268ba0fe58\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 287,
+                        "endColumn": 45,
+                        "endOffset": 328
+                    }
+                }
+            }
+        ]
+    }
+]

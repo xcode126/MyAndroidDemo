@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\MyDemo\\MyApplication\\fun3_qrcodedemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "E:\\MyDemo\\MyApplication\\fun3_qrcodedemo\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\MyDemo\\MyApplication\\fun3_qrcodedemo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_round.png",
+        "source": "E:\\MyDemo\\MyApplication\\fun3_qrcodedemo\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    }
+]
