@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\dimens.xml",
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 164
                 },
                 "from": {
-                    "file": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\dimens.xml",
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 206
                 },
                 "from": {
-                    "file": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\strings.xml",
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -69,7 +69,7 @@
                     "endOffset": 331
                 },
                 "from": {
-                    "file": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\styles.xml",
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -77,6 +77,89 @@
                         "endLine": 4,
                         "endColumn": 12,
                         "endOffset": 141
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 41,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 137
                     }
                 }
             }

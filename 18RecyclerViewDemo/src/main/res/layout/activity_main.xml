@@ -35,5 +35,14 @@
         android:tag="2"
         android:text="瀑布流" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:background="@color/colorPrimary"
+        android:onClick="btnClick"
+        android:tag="3"
+        android:text="测试" />
+
 
 </LinearLayout>

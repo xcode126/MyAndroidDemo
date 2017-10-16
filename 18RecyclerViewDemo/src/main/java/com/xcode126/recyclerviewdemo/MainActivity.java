@@ -39,6 +39,8 @@ public class MainActivity extends Activity {
             startActivity(new Intent(MainActivity.this, SampleActivity.class));
         } else if (tag.equals("2")) {
             startActivity(new Intent(MainActivity.this, ComplexActivity.class));
+        }else if(tag.equals("3")){
+            startActivity(new Intent(MainActivity.this,TestActivity.class));
         }
     }
 }

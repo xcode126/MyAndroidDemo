@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 25
-    buildToolsVersion "25.0.2"
+    compileSdkVersion 26
+    buildToolsVersion '26.0.2'
 
     defaultConfig {
         applicationId "com.xcode126.recyclerviewdemo"
         minSdkVersion 14
-        targetSdkVersion 25
+        targetSdkVersion 26
         versionCode 1
         versionName "1.0"
 
@@ -28,10 +28,12 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     //    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile files('libs/okhttp-3.2.0.jar')
     compile 'com.android.support:recyclerview-v7:25.0.0'
     compile 'com.github.gabrielemariotti.recyclerview:recyclerview-animators:0.3.0-SNAPSHOT@aar'
     compile 'com.android.support:design:25.3.1'
     compile 'com.google.code.gson:gson:2.2.4'
     compile 'com.squareup.picasso:picasso:2.3.2'
-    compile files('libs/okhttp-3.2.0.jar')
+    compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.alibaba:fastjson:1.2.38'
 }

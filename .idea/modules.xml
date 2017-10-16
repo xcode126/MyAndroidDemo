@@ -2,7 +2,29 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01uploadImage/01uploadImage.iml" filepath="$PROJECT_DIR$/01uploadImage/01uploadImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02ProjectFrame/02ProjectFrame.iml" filepath="$PROJECT_DIR$/02ProjectFrame/02ProjectFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03okhttp/03okhttp.iml" filepath="$PROJECT_DIR$/03okhttp/03okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04EventBus/04EventBus.iml" filepath="$PROJECT_DIR$/04EventBus/04EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05xutils/05xutils.iml" filepath="$PROJECT_DIR$/05xutils/05xutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06Afinal/06Afinal.iml" filepath="$PROJECT_DIR$/06Afinal/06Afinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Volley/07Volley.iml" filepath="$PROJECT_DIR$/07Volley/07Volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08Glide/08Glide.iml" filepath="$PROJECT_DIR$/08Glide/08Glide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09upMenu/09upMenu.iml" filepath="$PROJECT_DIR$/09upMenu/09upMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10WebViewAndH5/10WebViewAndH5.iml" filepath="$PROJECT_DIR$/10WebViewAndH5/10WebViewAndH5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11pickview/11pickview.iml" filepath="$PROJECT_DIR$/11pickview/11pickview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12binnerview/12binnerview.iml" filepath="$PROJECT_DIR$/12binnerview/12binnerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13animationdemo/13animationdemo.iml" filepath="$PROJECT_DIR$/13animationdemo/13animationdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14badgernumber/14badgernumber.iml" filepath="$PROJECT_DIR$/14badgernumber/14badgernumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15baidumapdemo/15baidumapdemo.iml" filepath="$PROJECT_DIR$/15baidumapdemo/15baidumapdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16imageproces/16imageproces.iml" filepath="$PROJECT_DIR$/16imageproces/16imageproces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17searchlistview/17searchlistview.iml" filepath="$PROJECT_DIR$/17searchlistview/17searchlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18RecyclerViewDemo/18RecyclerViewDemo.iml" filepath="$PROJECT_DIR$/18RecyclerViewDemo/18RecyclerViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19wallpapervideo/19wallpapervideo.iml" filepath="$PROJECT_DIR$/19wallpapervideo/19wallpapervideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fun_ClassifyDemo/Fun_ClassifyDemo.iml" filepath="$PROJECT_DIR$/Fun_ClassifyDemo/Fun_ClassifyDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyAndroidDemo.iml" filepath="$PROJECT_DIR$/MyAndroidDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_pickerview/library_pickerview.iml" filepath="$PROJECT_DIR$/library_pickerview/library_pickerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

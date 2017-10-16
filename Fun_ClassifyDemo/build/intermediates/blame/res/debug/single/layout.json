@@ -1,62 +1,122 @@
 [
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_gridview.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/activity_classify.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/activity_classify.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_child_layout.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_child_layout.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_gridview_txt.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_gridview_txt.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandable_listview.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_expandable_listview.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pro_type.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\fragment_pro_type.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pro_type.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\fragment_pro_type.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_layout.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_list_layout.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/activity_expandable_gridview.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/activity_expandable_gridview.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_main.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandable_gridview.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_expandable_gridview.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_morelist.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_classify_morelist.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/activity_expandable_listview.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/activity_expandable_listview.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandable_gridview.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_expandable_gridview.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_gridview.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_gridview.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_txt.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_gridview_txt.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_group_layout.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_classify.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_classify.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_child_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_child_layout.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid_child_layout.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_grid_child_layout.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_group_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_gridview_group_layout.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_group_layout.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_group_layout.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrollgrid.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_scrollgrid.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_group_layout.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_gridview_group_layout.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_list_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_list_layout.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrollgrid.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_scrollgrid.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/activity_main.xml"
     },
     {
-        "merged": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_mainlist.xml",
-        "source": "E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_classify_mainlist.xml"
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_gridview.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_child_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_child_layout.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_expandable_listview.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_expandable_listview.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_list_layout.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/activity_scrollgrid.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/activity_scrollgrid.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_classify_morelist.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_classify_morelist.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_morelist.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_classify_morelist.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/fragment_pro_type.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/fragment_pro_type.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_classify_mainlist.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_classify_mainlist.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_gridview_txt.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_gridview_txt.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_gridview_group_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_gridview_group_layout.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_group_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_group_layout.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_classify.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\activity_classify.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/build/intermediates/res/merged/debug/layout/item_grid_child_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/Fun_ClassifyDemo/res/layout/item_grid_child_layout.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid_child_layout.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_grid_child_layout.xml"
+    },
+    {
+        "merged": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_classify_mainlist.xml",
+        "source": "/Users/tigo/Desktop/MyWork/MyGit/MyAndroidDemo/E:\\MyDemo\\MyApplication\\Fun_ClassifyDemo\\res\\layout\\item_classify_mainlist.xml"
     }
 ]
